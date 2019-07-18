@@ -7,7 +7,7 @@ target 'TextureDemo' do
 
   # Pods for TextureDemo
   pod 'Texture'
-  pod 'Moya'
+  pod 'Moya', '~> 12.0.1'
   pod 'ObjectMapper'
   pod 'RxSwift', '~> 4.0'
   pod 'RxCocoa', '~> 4.0'
